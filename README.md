@@ -1,4 +1,4 @@
-##Concepts:
+## Concepts:
 
 - [Functional core imperative shell](https://gist.github.com/kbilsted/abdc017858cad68c3e7926b03646554e)
 - [Strategy Pattern](https://en.wikipedia.org/wiki/Strategy_pattern)
@@ -9,7 +9,7 @@
     - [Sean Hammond's blog post on FCIS](https://www.seanh.cc/posts/functional-core-imperative-shell)
 - [Type Checking Theory](http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-07.html)
 
-##Blogs
+## Blogs
 
 - http://devopsbox.es/ (Roman Heinrich)
 - https://www.ardanlabs.com/blog/ (William Kennedy)
