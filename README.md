@@ -1,13 +1,15 @@
-# A recollection of interesting reads on Programming and Software Engineering
+# 📚 A recollection of interesting reads on Programming and Software Engineering 🔖
 
 ## Sources
 
 - [Roman Heinrich](http://devopsbox.es/)
 - [William Kennedy](https://www.ardanlabs.com/blog/)
 - [Netflix](https://medium.com/netflix-techblog)
+  - Netflix's technical blog
 - [n0ruSh/the-art-of-reading](https://github.com/n0ruSh/the-art-of-reading)
   - books that i have read and worth sharing.
-- [Marin's blog (mostly JS)](http://marijnhaverbeke.nl)
+- [Marin's blog](http://marijnhaverbeke.nl)
+  - codemirror creator. good source of JS
 
 
 ## Programming
