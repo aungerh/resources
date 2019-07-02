@@ -1,7 +1,8 @@
 # 📚 A recollection of interesting reads on Programming and Software Engineering 🔖
 
-Blogs
-Languages
+##### Table of Contents  
+
+[Blogs](#blogs)
 
 # Blogs
 
