@@ -10,6 +10,7 @@ Languages
 - [Netflix tech blog](https://medium.com/netflix-techblog)
 - [n0ruSh/the-art-of-reading (books that i have read and worth sharing)](https://github.com/n0ruSh/the-art-of-reading)
 - [Marijn Haverbeke blog (creator of codemirror)](http://marijnhaverbeke.nl)
+- [Nikita Tonsky (from Fira Code font)](https://tonsky.me/)
 
 
 # Programming
