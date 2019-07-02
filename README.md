@@ -2,7 +2,17 @@
 
 ##### Table of Contents  
 
-[Blogs](#blogs)
+- [blogs](#blogs)
+- [articles](#articles)
+- [things to tinker with](#things-to-tinker-with)
+- [typography](#typography)
+- [programming](#programming)
+  - [languages](#languages)
+  - [go](#go)
+- [courses](#courses)
+- [frameworks](#frameworks)
+  - [react](#react)
+
 
 # Blogs
 
