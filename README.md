@@ -16,6 +16,7 @@ Languages
 # Programming
 
 - [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+- [learnxinminutes](https://learnxinyminutes.com)
 
 # Languages
 
@@ -28,3 +29,9 @@ Languages
 
 - [Mastery with SQL - A hands-on practical course for anyone who wants to learn modern SQL
 ](https://www.masterywithsql.com/)
+
+## Frameworks
+
+### React
+
+- [rules of hooks](https://reactjs.org/docs/hooks-rules.html)
