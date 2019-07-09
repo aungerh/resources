@@ -3,6 +3,7 @@
 ##### Table of Contents  
 
 - [blogs](#blogs)
+- [roadmaps](#roadmaps)
 - [articles](#articles)
 - [things to tinker with](#things-to-tinker-with)
 - [typography](#typography)
@@ -22,6 +23,13 @@
 - [n0ruSh/the-art-of-reading (books that i have read and worth sharing)](https://github.com/n0ruSh/the-art-of-reading)
 - [Marijn Haverbeke blog (creator of codemirror)](http://marijnhaverbeke.nl)
 - [Nikita Tonsky (from Fira Code font)](https://tonsky.me/)
+
+# Roadmaps
+
+A list of some technologies known roadmaps
+
+- [react](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html)
+- [golang](https://github.com/golang/go/milestones)
 
 # Articles
 
