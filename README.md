@@ -56,6 +56,10 @@ A list of some technologies known roadmaps
 - [How to use the Go `context.Context`](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
 - [go cookbook (by SuperOrbital)](https://golangcookbook.com/)
 
+#### Libraries
+
+- [justinas/alice Painless **middleware** chaining for Go](https://github.com/justinas/alice)
+
 ## Courses
 
 - [Mastery with SQL - A hands-on practical course for anyone who wants to learn modern SQL
