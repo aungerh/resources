@@ -64,8 +64,7 @@ A list of some technologies known roadmaps
 
 ## Courses
 
-- [Mastery with SQL - A hands-on practical course for anyone who wants to learn modern SQL
-](https://www.masterywithsql.com/)
+- [Mastery with SQL - A hands-on practical course for anyone who wants to learn modern SQL](https://www.masterywithsql.com/)
 
 ## Frameworks
 
