@@ -56,6 +56,7 @@ A list of some technologies known roadmaps
 
 - [How to use the Go `context.Context`](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
 - [go cookbook (by SuperOrbital)](https://golangcookbook.com/)
+- [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
 
 #### Libraries
 
