@@ -47,3 +47,4 @@
 - [Stimulus (augment your HTML by connecting elements to JavaScript objects)](https://stimulusjs.org/handbook/introduction)
 - [bulma.io](https://github.com/jgthms/bulma)
 - [ethereum (go)](https://github.com/ethereum/go-ethereum)
+- [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
