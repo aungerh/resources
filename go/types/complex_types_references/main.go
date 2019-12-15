@@ -15,16 +15,33 @@ func main() {
 		"b": 2,
 	}
 	fmt.Printf("%p\n", a)
-	printMem(a)
-	fmt.Print(a)
+	pmemMap(a) // modifies a (passes by reference)
+
+	b := []int{1, 2, 3, 4}
+	fmt.Printf("%p\n", b)
+	pmemSlice(b) // modifies b (passes by reference)
+
+	c := 42
+	fmt.Printf("%p\n", &c)
+	pmemInt(c) // doesn't modify c (passes by value)
 }
 
-func printMem(a map[string]int) {
+func pmemMap(a map[string]int) {
 	fmt.Printf("%p\n", a)
 	a["a"] = 3 // this modifies the original variable. maps are reference types
 	// Arguably renaming the type from *map[int]int to map[int]int, while confusing because the
 	// type does not look like a pointer, was less confusing than a pointer shaped value which
 	// cannot be dereferenced. (2)
+}
+
+func pmemSlice(b []int) {
+	fmt.Printf("%p\n", b)
+	b[0] = 3
+}
+
+func pmemInt(c int) {
+	fmt.Printf("%p\n", &c)
+	c = 3
 }
 
 // EXTRACT FROM THE BLOG POST (1)
