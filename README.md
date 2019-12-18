@@ -9,6 +9,7 @@
   - [Learning](#learning)
   - [Typography](#typography)
   - [Uncategorized / Dump](#uncategorized--dump)
+  - [Kubernetes](#kubernetes)
 
 ## Projects Roadmaps
 
@@ -48,3 +49,7 @@
 - [bulma.io](https://github.com/jgthms/bulma)
 - [ethereum (go)](https://github.com/ethereum/go-ethereum)
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+
+## Kubernetes
+- [kodekloud](https://kodekloud.com/p/all-courses)
+  - [from kk creator](https://www.youtube.com/watch?v=8C_SCDbUJTg)
