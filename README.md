@@ -23,8 +23,8 @@
 - [Using `context.Context`](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
 - [go cookbook (by SuperOrbital)](https://golangcookbook.com/)
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
-
 - [justinas/alice Painless **middleware** chaining for Go](https://github.com/justinas/alice)
+- [Go data structures (best article found so far referring to the memory model)](https://research.swtch.com/godata)
 
 ### JS
 
