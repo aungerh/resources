@@ -25,6 +25,7 @@
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
 - [justinas/alice Painless **middleware** chaining for Go](https://github.com/justinas/alice)
 - [Go data structures (best article found so far referring to the memory model)](https://research.swtch.com/godata)
+- [Kelsey's Hightower gopher academy blog](https://blog.gopheracademy.com/)
 
 ### JS
 
