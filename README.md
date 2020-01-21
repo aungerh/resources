@@ -54,3 +54,7 @@
 ## Kubernetes
 - [kodekloud](https://kodekloud.com/p/all-courses)
   - [from kk creator](https://www.youtube.com/watch?v=8C_SCDbUJTg)
+
+## gRPC
+
+- [gRPC - container-solutions](https://blog.container-solutions.com/introduction-to-grpc)
