@@ -10,6 +10,7 @@
   - [Typography](#typography)
   - [Uncategorized / Dump](#uncategorized--dump)
   - [Kubernetes](#kubernetes)
+  - [Projects to read](#projects-to-read)
 
 ## Projects Roadmaps
 
@@ -58,3 +59,8 @@
 ## gRPC
 
 - [gRPC - container-solutions](https://blog.container-solutions.com/introduction-to-grpc)
+
+
+## Projects To Read
+
+- [oklog/run](https://github.com/oklog/run)
