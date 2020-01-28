@@ -64,3 +64,4 @@
 ## Projects To Read
 
 - [oklog/run](https://github.com/oklog/run)
+- [go-resiliency patterns](https://github.com/eapache/go-resiliency)
